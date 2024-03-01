@@ -1,0 +1,105 @@
+body {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.border-container {
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+
+
+.border-container > div {
+
+    width: 20%;
+
+    padding: 20px;
+
+    margin: 20px;
+
+}
+
+
+
+.border1 {
+
+    border-top: 5px solid blue;
+
+    border-bottom: 5px solid palevioletred;
+
+    border-left-style: dotted;
+
+    border-right-style: dashed;
+
+}
+
+
+
+.border2 {
+
+    border-top: 5px solid green;
+
+    border-bottom: 5px solid greenyellow;
+
+    border-left-style: dashed;
+
+    border-right-style: dotted;
+
+}
+
+
+
+.border3 {
+
+    border-top: 5px solid violet;
+
+    border-bottom: 5px solid blueviolet;
+
+    border-left-style: dotted;
+
+    border-right-style: dashed;
+
+}
+
+
+
+.border4 {
+
+    border-top: 5px solid aqua;
+
+    border-bottom: 5px solid skyblue;
+
+    border-left-style: dashed;
+
+    border-right-style: dotted;
+
+}
+
+
+
+h2 {
+
+    text-align: center;
+
+}
+
+
+
+ul {
+
+    list-style-type: none;
+
+}
+
+
+
+ul li {
+
+    margin-bottom: 10px;
+
+}
